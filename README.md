@@ -1,4 +1,4 @@
-# React Hangman Game
+# Hangman Game
 
 ## Introduction
 A classic Hangman game built using **React** and styled with **Tailwind CSS**. The game challenges players to guess a hidden word by selecting letters from the alphabet. Incorrect guesses reveal parts of the hangman figure. The game ends when the word is guessed or the figure is fully drawn. It includes visual feedback and an option to restart the game.
@@ -7,7 +7,7 @@ A classic Hangman game built using **React** and styled with **Tailwind CSS**. T
 **Frontend**
 
 ## Deployed App
-- **Frontend**: [https://your-deployed-site.vercel.app](https://your-deployed-site.vercel.app)
+- **Frontend**: https://hangman-dun-one.vercel.app/
 - **Backend**: _Not applicable_
 - **Database**: _Not applicable_
 
@@ -29,12 +29,6 @@ react-hangman/
 ├── package.json
 └── README.md
 </pre>
-
-## Video Walkthrough of the Project
-📽️ [Attach a 1–3 minute video link showing gameplay and interface]
-
-## Video Walkthrough of the Codebase
-📽️ [Attach a 3–5 minute video link explaining React components and game logic]
 
 ## Features
 
